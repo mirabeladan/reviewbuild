@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3reviewbuildstorage883be9af",
+  "bucketName": "reviewbuild-storage-883be9af",
+  "policyUUID": "04e2d0a4",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ]
+}

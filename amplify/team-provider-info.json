@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reviewbuild-staging-45120-authRole",
+      "UnauthRoleArn": "arn:aws:iam::819208491404:role/amplify-reviewbuild-staging-45120-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::819208491404:role/amplify-reviewbuild-staging-45120-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reviewbuild-staging-45120-deployment",
+      "UnauthRoleName": "amplify-reviewbuild-staging-45120-unauthRole",
+      "StackName": "amplify-reviewbuild-staging-45120",
+      "StackId": "arn:aws:cloudformation:us-east-1:819208491404:stack/amplify-reviewbuild-staging-45120/6e5e8860-10b8-11ee-98b9-0e9fd968da73",
+      "AmplifyAppId": "ddvnd6dwawfsw"
+    },
+    "categories": {
+      "auth": {
+        "reviewbuild": {}
+      }
+    }
+  }
+}
